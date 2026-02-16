@@ -1,0 +1,5 @@
+LICENSE
+.idea/
+.venv/
+__pycache__
+config.json
